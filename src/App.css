@@ -1,0 +1,24 @@
+.App {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.star {
+  display: none;
+  color: blueviolet;
+}
+
+.star.show {
+  display: block;
+}
+
+.highlight-button-bg {
+  background: #61dafb;
+}
+
+.disLikeBtn {
+  float: right;
+}
